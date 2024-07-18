@@ -6,6 +6,14 @@ This repository contains the files created while following along with the [Front
 
 **Note:** This is an unfinished class project meant for learning purposes only. It is not intended to be interesting or complete.
 
+## Screenshot
+
+![Screenshot of the web page](images/screenshot.png)
+
+## Live Site
+
+You can find the live version of the project [here]()
+
 ## Project Structure
 
 - **index.html**: The main HTML file containing the structure and content of the web page.
@@ -16,10 +24,6 @@ This repository contains the files created while following along with the [Front
 - Basic HTML and CSS setup.
 - Demonstrates the use of CSS for styling text, images, and layout.
 - Includes examples of different HTML tags and CSS properties.
-
-## Screenshot
-
-![Screenshot of the web page](images/screenshot.png)
 
 ## Usage
 
